@@ -1810,7 +1810,7 @@ section.lazy-placeholder:after {
 .cid-rHVrbpLUty {
   padding-top: 90px;
   padding-bottom: 0px;
-  background-color: #efefef;
+  background-color: #cccccc;
 }
 .cid-rHVrbpLUty P {
   color: #767676;
@@ -2348,7 +2348,7 @@ section.lazy-placeholder:after {
 .cid-rHV5Vie4BG {
   padding-top: 75px;
   padding-bottom: 0px;
-  background-color: #efefef;
+  background-color: #cccccc;
 }
 .cid-rHV5Vie4BG P {
   color: #767676;
@@ -2820,38 +2820,19 @@ section.lazy-placeholder:after {
   color: #ffffff;
   text-align: center;
 }
-.cid-rIiAoVWy3o {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
+.cid-rIueXKMjli {
+  background: #ffffff;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
 }
-.cid-rIiAoVWy3o .counter-container {
-  color: #767676;
+.cid-rIueXKMjli .video-block {
+  margin: auto;
 }
-.cid-rIiAoVWy3o .counter-container ul {
-  margin-bottom: 0;
-}
-.cid-rIiAoVWy3o .counter-container ul li {
-  margin-bottom: 1rem;
-  list-style: none;
-}
-.cid-rIiAoVWy3o .counter-container ul li:before {
-  position: absolute;
-  left: 0px;
-  margin-top: -10px;
-  padding-top: 3px;
-  content: '';
-  display: inline-block;
-  text-align: center;
-  margin: 5px 10px;
-  line-height: 20px;
-  transition: all .2s;
-  color: #ffffff;
-  background: #149dcc;
-  width: 25px;
-  height: 25px;
-  border-radius: 50%;
-  content: '✓';
+@media (max-width: 768px) {
+  .cid-rIueXKMjli .video-block {
+    width: 100% !important;
+  }
 }
 .cid-rIiBIBGgmW {
   padding-top: 15px;
@@ -8505,7 +8486,7 @@ section.lazy-placeholder:after {
 .cid-rIoB3fEzDG {
   padding-top: 90px;
   padding-bottom: 0px;
-  background-color: #efefef;
+  background-color: #cccccc;
 }
 .cid-rIoB3fEzDG P {
   color: #767676;
@@ -9037,7 +9018,7 @@ section.lazy-placeholder:after {
 .cid-rIoC45AebY {
   padding-top: 90px;
   padding-bottom: 0px;
-  background-color: #efefef;
+  background-color: #cccccc;
 }
 .cid-rIoC45AebY P {
   color: #767676;
@@ -9569,7 +9550,7 @@ section.lazy-placeholder:after {
 .cid-rIoCil0pyu {
   padding-top: 90px;
   padding-bottom: 0px;
-  background-color: #efefef;
+  background-color: #cccccc;
 }
 .cid-rIoCil0pyu P {
   color: #767676;
@@ -10101,7 +10082,7 @@ section.lazy-placeholder:after {
 .cid-rIivXmdwGR {
   padding-top: 90px;
   padding-bottom: 0px;
-  background-color: #efefef;
+  background-color: #cccccc;
 }
 .cid-rIivXmdwGR P {
   color: #767676;
