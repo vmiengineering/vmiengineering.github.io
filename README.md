@@ -1,1 +1,0 @@
-# vmiengineering.github.io
